@@ -13,3 +13,22 @@
 - [ ] Weather Helper, you can see the current weather.
 - [ ] Proxy Helper, you can see the current proxy.
 - [ ] GitHub Helper, you can see your GitHub messages.
+
+## Usage
+
+```bash
+cd ~/.configs
+git clone git@github.com:wibus-wee/sketchybar-dotfile.git sketchybar
+cd sketchybar
+chmod +x plugins/*
+```
+
+Don't forget to restart your sketchybar!
+
+```bash
+brew services restart sketchybar
+```
+
+<!-- ## Some Tips -->
+
+<!-- - Net Item will be hidden if you are not connected to the internet. -->
