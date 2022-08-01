@@ -1,5 +1,8 @@
 # My Sketchybar Dotfile
 
+<img width="2560" alt="截屏2022-08-01 21 38 08" src="https://user-images.githubusercontent.com/62133302/182160425-60a5c4d7-b274-4eac-8995-fe9215acd8c4.png">
+
+
 ## Features
 
 - [x] Apple Icon with script action, you can use it to open system preferences, activity monitor, or lock your pc.
