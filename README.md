@@ -17,7 +17,10 @@
 - [ ] Proxy Helper, you can see the current proxy.
 - [ ] GitHub Helper, you can see your GitHub messages.
 
-## Usage
+## Setup
+
+- Uses `sf-symbols`: `brew install --cask sf-symbols`
+- Hide your original menu bar
 
 ```bash
 cd ~/.configs
