@@ -2,6 +2,7 @@
 
 <img width="2560" alt="截屏2022-08-01 21 38 08" src="https://user-images.githubusercontent.com/62133302/182160425-60a5c4d7-b274-4eac-8995-fe9215acd8c4.png">
 
+[what is sketchbar?](https://github.com/FelixKratz/SketchyBar)
 
 ## Features
 
@@ -35,6 +36,8 @@ Don't forget to restart your sketchybar!
 brew services restart sketchybar
 ```
 
-<!-- ## Some Tips -->
+## References
 
-<!-- - Net Item will be hidden if you are not connected to the internet. -->
+- [SketchyBar](https://github.com/FelixKratz/SketchyBar)
+- [FelixKratz/dotfiles (90e3a94)](https://github.com/FelixKratz/dotfiles/tree/90e3a94727b4a8ab2211500fee0f3d1e77f603a6)
+- [Tnixc/dotfiles](https://github.com/FelixKratz/SketchyBar/discussions/47#discussioncomment-3069564)
