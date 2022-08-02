@@ -3,7 +3,7 @@
  # @author: Wibus
  # @Date: 2022-08-01 21:18:16
  # @LastEditors: Wibus
- # @LastEditTime: 2022-08-01 21:22:28
+ # @LastEditTime: 2022-08-02 18:01:45
  # Coding With IU
 ### 
 
@@ -25,6 +25,7 @@ sketchybar --add item power_logo right \
            --set power_logo icon= \
                  icon.color=0xff121219 \
                  label.drawing=off \
-                 background.color=0xffB3E1A7
+                 background.color=0xffB3E1A7 \
+                 update_freq=90
 
 fi
