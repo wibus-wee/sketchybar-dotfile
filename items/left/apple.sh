@@ -1,9 +1,9 @@
 ###
- # @FilePath: /sketchybar/items/apple.sh
+ # @FilePath: /sketchybar/items/left/apple.sh
  # @author: Wibus
  # @Date: 2022-08-01 20:52:04
  # @LastEditors: Wibus
- # @LastEditTime: 2022-08-01 21:15:34
+ # @LastEditTime: 2022-08-02 17:57:44
  # Coding With IU
 ### 
 #!/usr/bin/env sh
@@ -42,4 +42,8 @@ sketchybar --add item           apple.logo left                             \
               --set apple.lock icon=􀒳                                                         \
                                label="Lock Screen"                                            \
                                click_script="pmset displaysleepnow;                           
-                                             sketchybar -m --set apple.logo popup.drawing=off"
+                                             sketchybar -m --set apple.logo popup.drawing=off" \
+              --add item apple.update popup.apple.logo                                          \
+              --set apple.update icon=􀅌                                                          \
+                                  label="Update SketchyBar"                                    \
+                                  click_script="sketchybar --update"  \
